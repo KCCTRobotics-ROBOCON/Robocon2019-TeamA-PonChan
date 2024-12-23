@@ -1,0 +1,19 @@
+{
+  "ignorePaths": [
+    "**/*.cspell.json",
+    "**/*.pre-commit-config.yaml",
+    "**/CPPLINT.cfg",
+    "**/.git/**",
+    "**/.gitignore",
+    "**/.vscode/**"
+  ],
+  "ignoreRegExpList": [
+    "Copyright .*[0-9]{4}.+"
+  ],
+  "overrides": [
+  ],
+  "words": [
+    "cytron",
+    "robomaster"
+  ]
+}
